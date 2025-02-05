@@ -24,4 +24,4 @@ Live Demo: **[Click Here](https://yourusername.github.io/calculator/)**
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/aniket/calculator.git
+   git clone https://github.com/ANIKET/calculator.git
